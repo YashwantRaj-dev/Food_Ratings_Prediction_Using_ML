@@ -10,6 +10,7 @@ Given a dataset with the following features:
 UserReputation, ThumbsUpCount, ReplyCount, RecipeReview, BestScore, etc., the goal was to predict the Rating a user would give to a recipe.
 
 Below were the steps involved in the code :
+
 (i) Exploratory Data Analysis (EDA):
 - Analyzed key metrics and trends to understand data distribution and correlations.
 - Performed visualizations to interpret user behavior and rating distribution.
