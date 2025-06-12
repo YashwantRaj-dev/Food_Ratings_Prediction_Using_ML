@@ -3,11 +3,9 @@
 This project was developed as part of a Kaggle Machine Learning contest where the task was to predict food ratings based on multiple key performance indicators (KPIs) such as user engagement, recipe details, comments, and more.
 
 Goal :
-
 To build a robust ML model capable of accurately predicting food ratings and exploring user engagement metrics that influence recipe ratings.
 
 Problem Statement :
-
 Given a dataset with the following features:
 UserReputation, ThumbsUpCount, ReplyCount, RecipeReview, BestScore, etc., the goal was to predict the Rating a user would give to a recipe.
 
