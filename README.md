@@ -48,3 +48,6 @@ Technologies Used :
 Outcome :
 - The Random Forest Classifier achieved the highest accuracy and was selected for final predictions.
 - A .csv file was generated as a submission for the Kaggle leaderboard.
+
+Below is the link to the google colab file containing the code :
+https://colab.research.google.com/drive/1jfhXjQBH_QXAQsyou_nF2Z-vfldYeiU-?usp=sharing
