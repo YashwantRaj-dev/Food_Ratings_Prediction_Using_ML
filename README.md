@@ -44,6 +44,6 @@ Technologies Used :
 - Matplotlib, Seaborn (Data Visualization)
 - Scikit-learn (ML modeling and pipelines)
 
-Outcome
-The Random Forest Classifier achieved the highest accuracy and was selected for final predictions.
-A .csv file was generated as a submission for the Kaggle leaderboard.
+Outcome :
+- The Random Forest Classifier achieved the highest accuracy and was selected for final predictions.
+- A .csv file was generated as a submission for the Kaggle leaderboard.
